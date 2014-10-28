@@ -1,0 +1,6 @@
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\bin\x86\Release\ChemEngine.dll
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\bin\x86\Release\ChemEngine.pdb
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\obj\x86\Release\ChemEngine.dll
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemEngine\obj\x86\Release\ChemEngine.pdb

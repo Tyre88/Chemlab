@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Structs="ChemEngine.Structs">
+  <Asset Type="Structs:LevelStruct">
+    <_gameObjects>
+      <GameObjectStruct>
+        <_position>192 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Carbon - C</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Carbon</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Carbon - C</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Carbon</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 192</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Carbon - C</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Carbon</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 192</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 192</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+    </_gameObjects>
+    <_finishLevel>
+      <Item>
+        <GameObjectType>CarbonDioxide</GameObjectType>
+        <CountToDone>2</CountToDone>
+        <IsDone>false</IsDone>
+      </Item>
+      <Item>
+        <GameObjectType>CarbonMonoxide</GameObjectType>
+        <CountToDone>1</CountToDone>
+        <IsDone>false</IsDone>
+      </Item>
+    </_finishLevel>
+    <_goal>Make 1 carbon monoxide and 2 carbon dioxide.</_goal>
+    <_dialogText></_dialogText>
+    <_nextLevel>level4</_nextLevel>
+  </Asset>
+</XnaContent>

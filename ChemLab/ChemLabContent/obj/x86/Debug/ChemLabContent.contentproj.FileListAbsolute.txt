@@ -1,0 +1,2 @@
+D:\DropBox\Dropbox\utveckling\Spel\ChemLab\ChemLab\ChemLabContent\obj\x86\Debug\ChemLabContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\utveckling\Spel\ChemLab\ChemLab\ChemLabContent\obj\x86\Debug\ResolveAssemblyReference.cache

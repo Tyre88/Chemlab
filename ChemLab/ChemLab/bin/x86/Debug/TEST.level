@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Structs="ChemEngine.Structs">
+  <Asset Type="Structs:LevelStruct">
+    <_gameObjects>
+      <GameObjectStruct>
+        <_position>192 64</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>320 192</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Methane - CH4</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Methane</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 192</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Carbon dioxide - CO2</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>CarbonDioxide</_gameObjectType>
+      </GameObjectStruct>
+    </_gameObjects>
+    <_finishLevel>
+      <Item>
+        <GameObjectType>Water</GameObjectType>
+        <CountToDone>1</CountToDone>
+        <IsDone>false</IsDone>
+      </Item>
+    </_finishLevel>
+    <_goal>test</_goal>
+    <_dialogText></_dialogText>
+    <_nextLevel>test</_nextLevel>
+  </Asset>
+</XnaContent>

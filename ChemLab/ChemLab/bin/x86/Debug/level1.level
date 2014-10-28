@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Structs="ChemEngine.Structs">
+  <Asset Type="Structs:LevelStruct">
+    <_gameObjects>
+      <GameObjectStruct>
+        <_position>160 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>288 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>160 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>160 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 224</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Oxygen - O</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Oxygen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>192 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>256 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>288 256</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>288 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+      <GameObjectStruct>
+        <_position>224 288</_position>
+        <_selected>false</_selected>
+        <_count>1</_count>
+        <_name>Hydrogen - H</_name>
+        <_type>Gas</_type>
+        <_gameObjectType>Hydrogen</_gameObjectType>
+      </GameObjectStruct>
+    </_gameObjects>
+    <_finishLevel>
+      <Item>
+        <GameObjectType>Water</GameObjectType>
+        <CountToDone>5</CountToDone>
+        <IsDone>false</IsDone>
+      </Item>
+    </_finishLevel>
+    <_goal>Make 5 water molekules.</_goal>
+    <_dialogText></_dialogText>
+	<_nextLevel>level2</_nextLevel>
+  </Asset>
+</XnaContent>

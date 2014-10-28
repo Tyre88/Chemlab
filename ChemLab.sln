@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemLab", "ChemLab\ChemLab\ChemLab.csproj", "{10C95B2D-4BE9-4C53-A0FF-575B29F98327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemLabContent", "ChemLab\ChemLabContent\ChemLabContent.contentproj", "{1D4EAC6E-BD82-49F7-8669-3F1C21CE3A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemEngine", "ChemEngine\ChemEngine.csproj", "{43899FC8-E5D5-4984-91D0-A6A53D5425E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSystem", "ParticleSystem\ParticleSystem.csproj", "{B72C1FD1-3451-4B2B-A76F-BABA6527FC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C95B2D-4BE9-4C53-A0FF-575B29F98327}.Debug|x86.ActiveCfg = Debug|x86
+		{10C95B2D-4BE9-4C53-A0FF-575B29F98327}.Debug|x86.Build.0 = Debug|x86
+		{10C95B2D-4BE9-4C53-A0FF-575B29F98327}.Release|x86.ActiveCfg = Release|x86
+		{10C95B2D-4BE9-4C53-A0FF-575B29F98327}.Release|x86.Build.0 = Release|x86
+		{1D4EAC6E-BD82-49F7-8669-3F1C21CE3A21}.Debug|x86.ActiveCfg = Debug|x86
+		{1D4EAC6E-BD82-49F7-8669-3F1C21CE3A21}.Release|x86.ActiveCfg = Release|x86
+		{43899FC8-E5D5-4984-91D0-A6A53D5425E0}.Debug|x86.ActiveCfg = Debug|x86
+		{43899FC8-E5D5-4984-91D0-A6A53D5425E0}.Debug|x86.Build.0 = Debug|x86
+		{43899FC8-E5D5-4984-91D0-A6A53D5425E0}.Release|x86.ActiveCfg = Release|x86
+		{43899FC8-E5D5-4984-91D0-A6A53D5425E0}.Release|x86.Build.0 = Release|x86
+		{B72C1FD1-3451-4B2B-A76F-BABA6527FC53}.Debug|x86.ActiveCfg = Debug|x86
+		{B72C1FD1-3451-4B2B-A76F-BABA6527FC53}.Debug|x86.Build.0 = Debug|x86
+		{B72C1FD1-3451-4B2B-A76F-BABA6527FC53}.Release|x86.ActiveCfg = Release|x86
+		{B72C1FD1-3451-4B2B-A76F-BABA6527FC53}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
